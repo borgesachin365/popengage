@@ -1,0 +1,36 @@
+
+
+// abstract styles
+@import "mixins";
+@import "variables";
+
+// base styles
+@import "reset";
+@import "typography";
+@import "global";
+
+// component styles
+@import "buttons";
+@import "forms";
+@import "preloader";
+
+// layout styles
+@import "header";
+@import "banner";
+@import "footer";
+
+// section styles
+@import "all-sections";
+
+// themes styles
+@import "light-theme";
+
+// responsive styles
+@import "responsive";
+
+
+
+
+
+
+
