@@ -383,15 +383,5 @@
 	});
 })(jQuery);
 
-$(document).ready(function() {
-	$("#toggle-btn").click(function() {
-	  var elem = $("#toggle-btn").text();
-	  if (elem == "Read More") {
-		$("#toggle-btn").text("Read Less");
-		$("#text").slideDown();
-	  } else {
-		$("#toggle-btn").text("Read More");
-		$("#text").slideUp();
-	  }
-	});
-  });
+
+

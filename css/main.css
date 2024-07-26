@@ -2675,17 +2675,6 @@ i {
 /* ==== 
  --------- (5.0) all sections styles start ---------
  ==== */
-#text {
-  display: none !important;
-}
-
-#toggle-btn {
-  background-color: var(--green-color);
-  padding: 10px;
-  border-radius: 8px;
-  color: #fff;
-}
-
 .agency {
   background-color: var(--tertiary-color);
   z-index: 1;
@@ -6573,7 +6562,7 @@ i {
     width: 90%;
   }
   .testimonial .testimonial-s__slider .testimonial-s__content h4 {
-    font-size: 18px;
+    font-size: 14px;
   }
   .footer .footer-logo {
     width: 30%;
